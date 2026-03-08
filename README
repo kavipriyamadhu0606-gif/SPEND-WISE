@@ -1,0 +1,20 @@
+Spendwise is a comprehensive financial management web application developed under the Naan Mudhalvan skill development initiative. The project aims to empower users—especially students and young professionals—to take control of their personal finances by providing a centralized platform to track income, monitor daily expenses, and visualize spending patterns.
+By bridging the gap between simple budgeting and complex accounting, Spendwise helps users build better financial habits through data-driven insights and a user-friendly interface.
+🚀 Key Features
+Real-time Dashboard: Get a bird's-eye view of your total balance, monthly income, and categorized expenses through interactive charts (Bar/Pie).
+Transaction Management: Seamlessly add, edit, or delete income and expense records with date and category tagging.
+Expense Categorization: Automatically group spending into categories like Food, Rent, Entertainment, and Transport for better clarity.
+Secure Authentication: User-specific profiles with secure login/signup to ensure your financial data remains private.
+Mobile-Responsive Design: A fully adaptive UI that works perfectly on desktops, tablets, and smartphones.
+🛠️ Tech Stack
+This project utilizes a modern tech stack to ensure scalability and performance:
+Frontend: React.js / HTML5, CSS3, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB (for user profiles and transaction history)
+Authentication: JWT (JSON Web Tokens) or Firebase
+Data Visualization: Chart.js or Recharts
+📖 How to Use
+Sign Up: Create a new account to start your financial journey.
+Add Income: Input your monthly salary or pocket money.
+Log Expenses: Every time you spend, record it with a description and category.
+Analyze: Use the dashboard to see which category is consuming most of your budget and adjust your habits accordingly.
